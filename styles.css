@@ -1,0 +1,21 @@
+.container {
+	width: 970px;
+	margin: auto;
+	text-align: center;
+}
+
+button {
+	color: white;
+	background-color: green;
+	display: block;
+}
+
+td {
+	height: 100px;
+	width: 100px;
+}
+
+.ninja {
+	background-size: contain;
+	background-image: url("ninja.png");
+}
